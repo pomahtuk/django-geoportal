@@ -1,0 +1,6 @@
+include static/*
+recursive-include static *
+include AUTHORS CHANGES README INSTALL LICENCE
+recursive-include geoportal *.py *.html *.js
+include templates
+recursive-include templates *

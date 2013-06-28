@@ -1,0 +1,11 @@
+Django
+FeinCMS
+PIL
+django-admin-tools
+django-filebrowser
+django-grappelli
+django-modeltranslation
+django-mptt
+django-ratings
+django-tinymce
+easy-thumbnails
